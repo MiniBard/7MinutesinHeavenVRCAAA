@@ -3,7 +3,7 @@
 
     "DeckBy": "Gaming RP Zone",
 
-    "Segments": [  
+    "Segments": [
         "From 1-10 how would you rate <player> on being freakyy?",
         "Who in this room has the most attractive voice in your opinion? Why?",
         "Tell <player> <range[1-10]> facts about yourself.",
@@ -37,7 +37,7 @@
         "Have you had fantasies about anybody from the room?",
         "Do you ever just want to tear off <player> ‘s clothes?",
         "What turns you off?",
-        "Tell me your top five turn-ons",
+        "Tell <player> or everyone your top five turn-ons",
         "What is the dumbest thing you’ve said to your partner during sex?",
         "Who among the players do you think has the best body?",
         "What’s the most useless piece of information you know?",
@@ -120,6 +120,7 @@
         "What's the most morally wrong thing you've done that you still don't regret",
         "What's one rumor about you that's true, but you've never admitted it?",
         "Who's someone you'd sleep with once, no strings, even if it ruined everything?",
+        "What's the most embarrassing thing you do for comfort/when comforting yourself?",
         "Mute yourself until next turn.",
         "Give a hug to <player>.",
         "Mimic <player> and let other guess who it is",
@@ -236,6 +237,7 @@
         "You and <player> text 'We made a mistake last night' to someone you BOTH know",
         "Let <player> give you a seduction score from 1-10 after you flirt with them",
         "You and <player> pick out dares for each other, but they must be equally risky",
-        "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup"
+        "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup",
+        "Get <player> to slap you on the face"
     ]
 }
