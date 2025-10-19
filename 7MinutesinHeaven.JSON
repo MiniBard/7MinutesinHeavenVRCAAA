@@ -82,7 +82,6 @@
         "Do you think it is possible to love somebody at first sight?",
         "What feature or trait do people compliment you for often? (physical or mental)",
         "Do you cover your eyes during a scary part in the movie?",
-        "What do you wish to forget?",
         "Who do you think is the worst singer in your group?",
         "Who do you think is the best singer in your group?",
         "What is one thing that you ate but others would find freaky or exotic?",
@@ -147,7 +146,6 @@
         "What's the lowest amount of time you slept in a night (excluding all-nighters)",
         "Who do you think would be the best cult leader and why?",
         "What is the most memorable rumor you heard about yourself?",
-        "What is something you regret?",
         "Favorite spot to be kissed?",
         "Silliest thing you've done in public",
         "Do you know how to dance? If not, do you wish to learn to dance? What kinds of dance?",
@@ -337,3 +335,4 @@
         "Search up 'Florida man' with your birth month and day. Tell the group one of the results"
     ]
 }
+
